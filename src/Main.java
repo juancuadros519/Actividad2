@@ -36,7 +36,7 @@ public class Main {
                     gestion.mostrarPedidoActual();
                     break;
                 case 0:
-                    System.out.println("Saliendo de Pizza-Track. ¡Hasta pronto!");
+                    System.out.println("Saliendo del programa");
                     break;
                 default:
                     System.out.println("Opción inválida. Intente de nuevo.");
